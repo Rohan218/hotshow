@@ -1,0 +1,36 @@
+*{
+	font-family: 'Lobster', cursive;
+}
+
+body{
+	background-color: black;
+}
+
+p{
+	color: pink;
+	font-size: 30px;
+}
+
+h1{
+	color: red;
+	font-size: 60px;
+	text-align: center;
+}
+
+h2{
+	color: green;
+	font-size: 45px;
+}
+
+img{
+	border: solid 4px blue;
+	width: 350px;
+	height: 200px;
+}
+
+button{
+	background-color: yellow;
+	font-weight: bold;
+    width: 150px;
+    height: 30px;
+}
